@@ -19,7 +19,7 @@
 #include <QMediaPlayer>
 #include <QTimer>
 
-
+//
 //视频播放器
 QMediaPlayer* videoplayer;
 
