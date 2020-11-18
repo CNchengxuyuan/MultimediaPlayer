@@ -1,0 +1,10 @@
+Music.o
+MusicList.o
+MusicListWidget.o
+main.o
+mainwidget.o
+vdieowidget.o
+qrc_res.o
+moc_MusicListWidget.o
+moc_mainwidget.o
+moc_vdieowidget.o
