@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "qtMusic"]
+	url = git@github.com:CNchengxuyuan/MultimediaPlayer.git
+	fetch = +refs/heads/*:refs/remotes/qtMusic/*
+[branch "master"]
+	remote = qtMusic
+	merge = refs/heads/master
